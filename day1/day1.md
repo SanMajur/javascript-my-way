@@ -8,7 +8,7 @@ I have used different JavaScript resources from ebooks, youtube videos, and onli
 - [Eloquent Javascript](https://eloquentjavascript.net/) by Marijn Haverbeke
 - [Head First JavaScript Programming A Brain-Friendly Guide.](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X) by  Eric Freeman & Elisabeth Robson
 - [A Smarter Way to Learn JavaScript](https://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C) by  Mark Myers 
-- 
+
 ### YouTube Channels
 
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=4s) by freeCodeCamp.org 
