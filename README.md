@@ -7,4 +7,7 @@ Thanks to the [#100daysofcode](https://www.100daysofcode.com/) challenge am able
 # Day 1 - Resources (6th June 2023)
 Today I did a refresh of the git commands, created a repository to track my journey and search for resources to learn JavaScript. More here --> [Day 1](/day1/day1.md)
 
-# Day 2 -
+# Day 2 - Introduction and Lexical Structure Of JavaScript (7th June 2023)
+Today I dived into the introduction of JavaScript, covering what JS is, the building blocks i.e the elementary rules that specifies how programs are written in JavaScript. More here --> [Day 2](/day2/day2.md)
+
+# Day 3 -
