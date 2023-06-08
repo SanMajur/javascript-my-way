@@ -21,7 +21,7 @@ JavaScript programs work with numbers using arithmetic operators like
 - Modulo (%) - remainder after division
 
 In addition to the above basic arithmetics operators, JavaScript provides a build-in **Math** object that provides functions to support complex arithmetic operations for example **Math.pow(2,53)**. There are some special global variables that are predefined by JS:
-    - NaN - stands for not-a-number and it arises when you divide zero by zero or use an arithmetic operation  other than addition (+) with a non-number value like a string eg `"cat" / "dog"`.
-    - Infinite - This occurs when the result of a numeric operation is larger than the largest representable number and it's counter part is **-Infinite** which occurs when a negative value becomes larger than the largest repre- sentable negative number.
++ NaN - stands for not-a-number and it arises when you divide zero by zero or use an arithmetic operation  other than addition (+) with a non-number value like a string eg `"cat" / "dog"`.
++ Infinite - This occurs when the result of a numeric operation is larger than the largest representable number and it's counter part is **-Infinite** which occurs when a negative value becomes larger than the largest repre- sentable negative number.
 
     ## [On to Day 4](/day4/day4.md)
