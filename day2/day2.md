@@ -1,4 +1,4 @@
-# Day 2 - 7th June 2023
+### Day 2 - 7th June 2023
 Today I leverage [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527) book by David Flanagan and [Javascript.info](https://javascript.info/) website to get a hang of what javascript is. Basically JavaScript is a scripting language that initially created as a browser-only language but as it evolue, JavaScript can now execute on the server as well or on any device with a JavaScript engine.
 
 JavaScript engine is a software component that executes JavaScript code. They include:-

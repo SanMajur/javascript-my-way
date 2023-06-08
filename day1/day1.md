@@ -1,4 +1,4 @@
-# Day one - 6th June 2023
+### Day one - 6th June 2023
 The first day of my attempt of the [#100daysofcode](https://www.100daysofcode.com/) got me searching for the resources to accomplish the challenge and I landed on the following based on my preference.
 ## Resources (Books, Websites, courses)
 I have used different JavaScript resources from ebooks, youtube videos, and online courses to try and understand the foundamental concepts from different perspectives, and made my own conclusions based on my understanding. Mentioned below are some of the resources I have used:-

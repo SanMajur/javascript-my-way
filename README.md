@@ -10,4 +10,7 @@ Today I did a refresh of the git commands, created a repository to track my jour
 # Day 2 - Introduction and Lexical Structure Of JavaScript (7th June 2023)
 Today I dived into the introduction of JavaScript, covering what JS is, the building blocks i.e the elementary rules that specifies how programs are written in JavaScript. More here --> [Day 2](/day2/day2.md)
 
-# Day 3 -
+# Day 3 - Value, Types and Variables (8th June 2023)
+Every JavaScript program works by manipulating values that have types like **strings** and **numbers** which are than stored in variables. That have been the focus of today's learning. More here --> [Day 3](/day3/day3.md)
+
+# Day 4 -
