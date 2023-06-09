@@ -13,4 +13,6 @@ Today I dived into the introduction of JavaScript, covering what JS is, the buil
 # Day 3 - Value, Types and Variables (8th June 2023)
 Every JavaScript program works by manipulating values that have types like **strings** and **numbers** which are than stored in variables. That have been the focus of today's learning. More here --> [Day 3](/day3/day3.md)
 
-# Day 4 -
+# Day 4 - Continuation of Value, Types and Variables (9th June 2023)
+
+Today is about strings and other data types in JavaScript. More here --> [Day 4](/day4/day4.md) 
